@@ -4,20 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Privacy Policy - Istanbul Visit</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.7;
-      padding: 2rem;
-      max-width: 800px;
-      margin: auto;
-      background-color: #fefefe;
-      color: #333;
-    }
-    h1, h2 {
-      color: #003366;
-    }
-  </style>
+  
 </head>
 <body>
   <h1>Privacy Policy</h1>
