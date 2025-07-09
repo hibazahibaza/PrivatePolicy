@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Privacy Policy - Istanbul Visit</title>
-    <style>
+<meta charset="UTF-8">
+<title>Privacy Policy - Istanbul Visit</title>
+<style>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.7;
